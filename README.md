@@ -1,8 +1,8 @@
 ## Hey, I'm Gabe 😁 I’m Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-ebagabee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtwzim/)](https://www.linkedin.com/in/ebagabee/)
-[![Mail Badge](https://img.shields.io/badge/gabrielhas.tech@gmail.com-e65729?style=flat-square&logo=mailgun&logoColor=white&link=mailto:matheus.vinicius@imagineapps.com.br)](mailto:gabrielhas.tech@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/gabrielhas.tech@gmail.com-e65729?style=flat-square&logo=mailgun&logoColor=white&link=mailto:gabrielhas.tech@gmail.com)](mailto:gabrielhas.tech@gmail.com)
 
 <br>
 
-![My Skills](https://skillicons.dev/icons?i=typescript,javascript,dotnet,ruby,php,&perline=5)
+![My Skills](https://skillicons.dev/icons?i=typescript,javascript,ruby,php,&perline=4)
