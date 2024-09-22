@@ -6,3 +6,5 @@
 <br>
 
 ![My Skills](https://skillicons.dev/icons?i=typescript,javascript,ruby,php,&perline=4)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebagabee&show_icons=true&locale=en&layout=compact" alt="ebagabee" /></p>
