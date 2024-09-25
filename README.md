@@ -7,6 +7,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=typescript,javascript,ruby,php,&perline=4)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabee&layout=donut-vertical&bg_color=00000000)](https://github.com/ebagabee/github-readme-stats)
-
-![Gabe Github States](https://github-readme-stats.vercel.app/api?username=ebagabee&includes_all_commits=true&show_icons=true&bg_color=00000000)
+<a href="https://github.com/ebagabee">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ebagabee&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ebagabee&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
