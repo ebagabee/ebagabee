@@ -1,13 +1,15 @@
-## Hey, I'm Gabe 😁 I’m Software Engineer
+👋 Hi, I’m Gabriel, a passionate Software Developer with expertise in building efficient, scalable, and maintainable web applications. With a strong foundation in Node.js, JavaScript, and modern web technologies, I have experience in both front-end and back-end development.
 
-[![Linkedin Badge](https://img.shields.io/badge/-ebagabee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtwzim/)](https://www.linkedin.com/in/ebagabee/)
-[![Mail Badge](https://img.shields.io/badge/gabrielhas.tech@gmail.com-e65729?style=flat-square&logo=mailgun&logoColor=white&link=mailto:gabrielhas.tech@gmail.com)](mailto:gabrielhas.tech@gmail.com)
+💼 **Technical Skills:**
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, Node.js, Express, NestJS, Angular, React, HTML, CSS, TailwindCSS, PHP, Laravel and CakePHP
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Version Control:** Git, GitHub
+- **Other Tools:** Docker, AWS, RESTful APIs, WebSockets
 
-<br>
+🎯 **Professional Objective:**
+I am actively seeking opportunities in the US, open to both remote work and relocation. My goal is to join a dynamic team where I can contribute my skills in software development, collaborate on impactful projects, and continue to grow in my career. I am especially interested in roles that challenge me to innovate and solve complex problems.
 
-![My Skills](https://skillicons.dev/icons?i=typescript,javascript,ruby,php,&perline=4)
+🌍 **Global Connections & Collaboration:**
+I am looking to expand my network with professionals from the US, especially in the fields of software development, technology, and startups. Let’s connect if you are looking for passionate developers, or if you are open to discussing opportunities in these regions!
 
-<a href="https://github.com/ebagabee">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ebagabee&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ebagabee&layout=compact&langs_count=8&theme=midnight-purple"/>
-</a>
+Feel free to reach out if you’d like to discuss potential opportunities or collaboration!
