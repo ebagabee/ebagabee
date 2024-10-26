@@ -1,4 +1,4 @@
-[![roadmap.sh](https://roadmap.sh/card/tall/6719779e791f57dd60e14831?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6719779e791f57dd60e14831?variant=dark)](https://roadmap.sh)
 
 🌍 Based in Brazil, actively seeking relocation to Boulder, Colorado, or remote opportunities in the US. 
 
