@@ -10,3 +10,5 @@ Hi, I’m Gabriel, a passionate Software Developer with expertise in building ef
 
 🎯 **Professional Objective:**
 I am actively pursuing software development opportunities in the US, with a focus on roles in Boulder, Colorado, or remote positions. My goal is to join a dynamic, innovative team where I can apply my skills in software development, collaborate on impactful projects, and continue growing as a developer. I am particularly excited about opportunities that challenge me to innovate, solve complex problems, and contribute to meaningful projects.
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6719779e791f57dd60e14831?variant=dark)](https://roadmap.sh)
