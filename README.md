@@ -1,10 +1,9 @@
-# Hi there 👋 I'm ebagabee
+# Hi there 👋 I'm ebagabe
 
 ## About Me
 - 🔭 I'm passionate about Full Stack Development
 - 🌱 Always learning and exploring new technologies
 - 💻 Working with web technologies and cloud solutions
-- 📫 How to reach me: [Your contact info]
 
 ## 🛠️ Tech Stack
 
