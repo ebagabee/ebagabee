@@ -27,5 +27,6 @@ Currently, I am learning Algorithms and Data Structures to improve my skills, pr
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebagabee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabee&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebagabee&show_icons=true&theme=radical)
+
