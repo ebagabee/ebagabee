@@ -1,2 +1,4 @@
-# My name is Gabriel :)
+# Hi!
+
+- My Name Is Gabriel and I'm Full Stack Developer
 
